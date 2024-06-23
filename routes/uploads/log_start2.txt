@@ -1,0 +1,10 @@
+[2024.03.09 04:24:29] Launched version: 4008007, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2024.03.09 04:24:29] Executable dir: C:/Users/fredr/AppData/Roaming/Telegram Desktop/, name: Telegram.exe
+[2024.03.09 04:24:29] Initial working dir: C:/Windows/system32/
+[2024.03.09 04:24:29] Working dir: C:/Users/fredr/AppData/Roaming/Telegram Desktop/
+[2024.03.09 04:24:29] Command line: C:\Users\fredr\AppData\Roaming\Telegram Desktop\Telegram.exe -- tg://join/?invite=XpKOX7lrbfk0OTU0
+[2024.03.09 04:24:29] Executable path before check: C:/Users/fredr/AppData/Roaming/Telegram Desktop/Telegram.exe
+[2024.03.09 04:24:29] Logs started
+[2024.03.09 04:24:29] Connecting local socket to Global\e96baa70fe59b3b3a5f7a730289b39dc-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2024.03.09 04:24:29] Socket connect error 3, starting server and app...
+[2024.03.09 04:24:29] Failed to start listening to Global\e96baa70fe59b3b3a5f7a730289b39dc-{87A94AB0-E370-4cde-98D3-ACC110C5967D} server: QLocalServerPrivate::addListener: Access is denied.
